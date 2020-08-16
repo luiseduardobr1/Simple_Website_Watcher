@@ -30,7 +30,7 @@ class Information():
     SMS_FROM = '<TWILIO PHONE NUMBER>'
     SMS_TO = '<YOUR PHONE NUMBER>'
  ```
-3) If your email isn't a *@hotmail.com*, you will need to change the *host* variable in ```Notification``` class, look at the table below for your specific *host*.
+3) If your email isn't a *@hotmail.com*, you will need to change the *host* variable in ```Notification``` class (look at the table below for your specific *host*).
 ```Python
 class Notification(Site_watcher):
 
