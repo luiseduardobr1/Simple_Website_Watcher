@@ -1,0 +1,5 @@
+bs4==0.0.1
+requests==2.22.0
+fake-useragent==0.1.11
+yagmail==0.11.224
+twilio==6.43.0
